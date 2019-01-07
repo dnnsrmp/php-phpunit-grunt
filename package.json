@@ -1,0 +1,13 @@
+{
+  "name": "phpunit-grunt",
+  "version": "0.1.0",
+  "description": "A PHP kata quickstarter with PHPUnit and grunt",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-contrib-watch": "~1.1.0",
+    "grunt-phpunit": "~0.3.6"
+  },
+  "author": "DNNSRMP <dnnsrmp@gmail.com>",
+  "license": "MIT"
+}

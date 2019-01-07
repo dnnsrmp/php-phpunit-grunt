@@ -1,0 +1,24 @@
+{
+  "name": "phpunit_kata",
+  "description": "Quickstart package for a phpunit kata",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "email": "dnnsrmp@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "": "test/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
