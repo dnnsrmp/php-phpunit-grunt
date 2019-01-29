@@ -12,7 +12,6 @@ It is not used by the grunt-phpunit runner!
     convertWarningsToExceptions = "true"
     processIsolation            = "false"
     stopOnFailure               = "false"
-    syntaxCheck                 = "false"
     bootstrap                   = "./vendor/autoload.php" >
 
     <testsuites>
