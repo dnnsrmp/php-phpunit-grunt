@@ -9,6 +9,10 @@
       "email": "dnnsrmp@gmail.com"
     }
   ],
+  "require": {
+    "php": "^7.2",
+    "ext-dom": "*"
+  },
   "autoload": {
     "psr-4": {
       "": "src/"
