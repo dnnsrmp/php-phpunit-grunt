@@ -1,5 +1,5 @@
 {
-  "name": "phpunit_kata",
+  "name": "dnnsrmp/phpunit_kata",
   "description": "Quickstart package for a phpunit kata",
   "minimum-stability": "stable",
   "license": "MIT",
